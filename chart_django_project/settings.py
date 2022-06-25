@@ -24,7 +24,7 @@ SECRET_KEY = '0-9!4^&mk)@5%a(m!#*-39sb#=*nzlqius!0$+rf+2!c(aa4+x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'weather-bit.herokuapp.com']
 
 # Application definition
 
